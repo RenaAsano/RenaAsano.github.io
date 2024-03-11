@@ -1,6 +1,4 @@
-# Memo
-
-内輪向けのメモ
+# Index
 
 - [Python](py.md)
 - [Terminal](terminal.md)
