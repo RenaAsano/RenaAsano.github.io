@@ -9,7 +9,7 @@
 
 ## Markdown
 
-<!-- - [Google Colaboratory で braket を使う](Markdown/colab_braket.md) -->
+- [Google Colaboratory で braket を使う](Markdown/colab_braket.md)
 
 ## LaTeX
 
