@@ -22,3 +22,7 @@
 ## Git
 
 ## Visual Stadio Code
+
+## Mac
+
+[Mac 手動移行メモ](Mac/setupnote.md)
